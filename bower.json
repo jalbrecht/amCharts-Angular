@@ -24,6 +24,7 @@
     "tests"
   ],
   "dependencies": {
-    "amcharts": "~3.15.2"
+    "amcharts": "~3.15.2",
+    "angular": "~1.5.8"
   }
 }
